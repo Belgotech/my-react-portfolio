@@ -15,7 +15,7 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    name: "Person One",
+    name: "Innovation Growth Hub",
     description:
       " accusantium, tempora eos aperiam temporibus. Id recusandae quasi ad cupiditate, numquam libero voluptatum inventore itaque, nemo pariatur deleniti laboriosam aut voluptas architecto repellendus omnis quo optio consequatur, dolorem possimus dignissimos.",
   },
@@ -23,7 +23,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    name: "Person Two",
+    name: "Macbas De Magnet",
     description:
       " bccusantium, tempora eos aperiam temporibus. Id recusandae quasi ad cupiditate, numquam libero voluptatum inventore itaque, nemo pariatur deleniti laboriosam aut voluptas architecto repellendus omnis quo optio consequatur, dolorem possimus dignissimos.",
   },
@@ -31,7 +31,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    name: "Person Three",
+    name: "Precious Concept",
     description:
       " cccusantium, tempora eos aperiam temporibus. Id recusandae quasi ad cupiditate, numquam libero voluptatum inventore itaque, nemo pariatur deleniti laboriosam aut voluptas architecto repellendus omnis quo optio consequatur, dolorem possimus dignissimos.",
   },

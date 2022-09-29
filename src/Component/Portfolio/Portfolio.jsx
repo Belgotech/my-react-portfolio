@@ -10,49 +10,49 @@ const data = [
   {
     id: 1,
     Image: IMG1,
-    title: "Project I have Done",
-    demo: "https://github.com",
-    github: "https://github.com",
+    title: "Belgotech",
+    demo: "https://belgotech.netlify.app",
+    github: "https://github.com/belgotech",
   },
 
   {
     id: 2,
     Image: IMG2,
-    title: "Project I have Done ",
-    demo: "https://github.com",
-    github: "https://github.com",
+    title: "Belgotech",
+    demo: "https://belgotech.netlify.app",
+    github: "https://github.com/belgotech",
   },
 
   {
     id: 3,
     Image: IMG3,
-    title: " Project I have Done",
-    demo: "https://github.com",
-    github: "https://github.com",
+    title: "Belgotech",
+    demo: "https://belgotech.netlify.app",
+    github: "https://github.com/belgotech",
   },
 
   {
     id: 4,
     Image: IMG4,
-    title: "Project I have Done",
-    demo: "https://github.com",
-    github: "https://github.com",
+    title: "Belgotech",
+    demo: "https://belgotech.netlify.app",
+    github: "https://github.com/belgotech",
   },
 
   {
     id: 5,
     Image: IMG5,
-    title: "Project I have Done",
-    demo: "https://github.com",
-    github: "https://github.com",
+    title: "Belgotech",
+    demo: "https://belgotech.netlify.app",
+    github: "https://github.com/belgotech",
   },
 
   {
     id: 6,
     Image: IMG6,
-    title: "Project I have Done",
-    demo: "https://github.com",
-    github: "https://github.com",
+    title: "Belgotech",
+    demo: "https://belgotech.netlify.app",
+    github: "https://github.com/belgotech",
   },
 ];
 
