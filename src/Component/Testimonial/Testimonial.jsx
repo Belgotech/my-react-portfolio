@@ -25,7 +25,7 @@ const data = [
     image: IMG2,
     name: "Macbas De Magnet",
     description:
-      " bccusantium, tempora eos aperiam temporibus. Id recusandae quasi ad cupiditate, numquam libero voluptatum inventore itaque, nemo pariatur deleniti laboriosam aut voluptas architecto repellendus omnis quo optio consequatur, dolorem possimus dignissimos.",
+      " ",
   },
 
   {
@@ -33,7 +33,7 @@ const data = [
     image: IMG3,
     name: "Precious Concept",
     description:
-      " cccusantium, tempora eos aperiam temporibus. Id recusandae quasi ad cupiditate, numquam libero voluptatum inventore itaque, nemo pariatur deleniti laboriosam aut voluptas architecto repellendus omnis quo optio consequatur, dolorem possimus dignissimos.",
+      "",
   },
 ];
 
