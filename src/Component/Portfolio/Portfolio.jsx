@@ -27,7 +27,7 @@ const data = [
     id: 3,
     Image: IMG3,
     title: "Belgo-Todo",
-    description: "",
+    description: "This is a todo app used to keep record of todos, built with reatjs and css",
     demo: "https://belgotodo.netlify.app",
     github: "https://github.com/belgotech",
   },
@@ -69,7 +69,7 @@ const Portfolio = () => {
       <h2>My Portfolio</h2>
 
       <div className="container portfolio__container">
-        {data.map(({ id, Image, title, demo, github }) => {
+        {data.map(({ id, Image, title, description, demo, github }) => {
           return (
             <article key={id} className="portfolio__item">
               <div className="portfolio__item-image">
