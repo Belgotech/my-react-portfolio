@@ -15,7 +15,7 @@ const Contact = () => {
             e.target.reset()
 
           .then((result) => {
-              console.log(result.text);
+              console.log(result.text);5
           }, (error) => {
               console.log(error.text);
           });
@@ -57,7 +57,7 @@ const Contact = () => {
                     <button type='submit' className='btn btn-primary'>Send Message</button>
                 </form>
             </div>
-        </div>
+        </div>  
        </section>
     )
 }
