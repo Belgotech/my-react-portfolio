@@ -27,6 +27,7 @@ const data = [
     id: 3,
     Image: IMG3,
     title: "Belgo-Todo",
+    description: "",
     demo: "https://belgotodo.netlify.app",
     github: "https://github.com/belgotech",
   },
@@ -35,6 +36,7 @@ const data = [
     id: 4,
     Image: IMG4,
     title: "Pig Game",
+    description: "This is a pig game, built with javascript and css",
     demo: "https://belgogame.netlify.app",
     github: "https://github.com/belgotech",
   },
@@ -42,8 +44,9 @@ const data = [
   {
     id: 5,
     Image: IMG5,
-    title: "Belgotech",
-    demo: "https://belgotech.netlify.app",
+    title: "Beloved Portfolio",
+    description: "This is my portfolio where i showcase my works and projects, built with reactjs and css",
+    demo: "https://belovedobiora.netlify.app",
     github: "https://github.com/belgotech",
   },
 
@@ -51,6 +54,7 @@ const data = [
     id: 6,
     Image: IMG6,
     title: "Belgotech",
+    description: "",
     demo: "https://belgotech.netlify.app",
     github: "https://github.com/belgotech",
   },
@@ -72,6 +76,7 @@ const Portfolio = () => {
                 <img src={Image} alt={title} />
               </div>
               <h3>{title}</h3>
+              <p href={description}></p>
               <a href={github} className="btn" target="_blank">
                 Github
               </a>
