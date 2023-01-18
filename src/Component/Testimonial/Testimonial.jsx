@@ -17,7 +17,7 @@ const data = [
     image: IMG1,
     name: "Innovation Growth Hub",
     description:
-      " accusantium, tempora eos aperiam temporibus. Id recusandae quasi ad cupiditate, numquam libero voluptatum inventore itaque, nemo pariatur deleniti laboriosam aut voluptas architecto repellendus omnis quo optio consequatur, dolorem possimus dignissimos.",
+      "",
   },
 
   {
