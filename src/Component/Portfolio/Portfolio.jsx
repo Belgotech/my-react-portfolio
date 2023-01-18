@@ -18,24 +18,24 @@ const data = [
   {
     id: 2,
     Image: IMG2,
-    title: "Belgotech",
-    demo: "https://belgotech.netlify.app",
+    title: "Bio-Track",
+    demo: "https://biotrack.netlify.app",
     github: "https://github.com/belgotech",
   },
 
   {
     id: 3,
     Image: IMG3,
-    title: "Belgotech",
-    demo: "https://belgotech.netlify.app",
+    title: "Belgo-Todo",
+    demo: "https://belgotodo.netlify.app",
     github: "https://github.com/belgotech",
   },
 
   {
     id: 4,
     Image: IMG4,
-    title: "Belgotech",
-    demo: "https://belgotech.netlify.app",
+    title: "Pig Game",
+    demo: "https://belgogame.netlify.app",
     github: "https://github.com/belgotech",
   },
 
