@@ -18,8 +18,8 @@ const data = [
   {
     id: 2,
     Image: IMG2,
-    title: "Bio-Track",
-    demo: "https://biotrack21.netlify.app",
+    title: "",
+    demo: "https://chopingsrecipe.netlify.app",
     github: "https://github.com/belgotech",
   },
 
