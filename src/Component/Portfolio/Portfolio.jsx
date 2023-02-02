@@ -18,7 +18,7 @@ const data = [
   {
     id: 2,
     Image: IMG2,
-    title: "",
+    title: "Chopings Recipe",
     demo: "https://chopingsrecipe.netlify.app",
     github: "https://github.com/belgotech",
   },
