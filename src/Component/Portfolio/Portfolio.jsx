@@ -9,28 +9,29 @@ import IMG6 from "../../assets/portfolio6.png";
 const data = [
   {
     id: 1,
+    Image: IMG2,
+    title: "Chopings Recipe",
+    demo: "https://chopingsrecipe.netlify.app",
+    github: "https://github.com/Belgotech/Chopings-Resturant-",
+  },
+
+  {
+    id: 2,
+    Image: IMG3,
+    title: "Belgo-Todo",
+    description: "This is a todo app used to keep record of todos, built with reatjs and css",
+    demo: "https://belgotodo.netlify.app",
+    github: "https://github.com/Belgotech/Basic-Crude-Application",
+  },
+  {
+    id: 3,
     Image: IMG1,
     title: "Belgotech",
     demo: "https://belgotech.netlify.app",
     github: "https://github.com/belgotech",
   },
 
-  {
-    id: 2,
-    Image: IMG2,
-    title: "Chopings Recipe",
-    demo: "https://chopingsrecipe.netlify.app",
-    github: "https://github.com/belgotech",
-  },
-
-  {
-    id: 3,
-    Image: IMG3,
-    title: "Belgo-Todo",
-    description: "This is a todo app used to keep record of todos, built with reatjs and css",
-    demo: "https://belgotodo.netlify.app",
-    github: "https://github.com/belgotech",
-  },
+  
 
   {
     id: 4,
@@ -38,7 +39,7 @@ const data = [
     title: "Pig Game",
     description: "This is a pig game, built with javascript and css",
     demo: "https://belgogame.netlify.app",
-    github: "https://github.com/belgotech",
+    github: "https://github.com/Belgotech/pig-game",
   },
 
   {
@@ -47,7 +48,7 @@ const data = [
     title: "Beloved Portfolio",
     description: "This is my portfolio where i showcase my works and projects, built with reactjs and css",
     demo: "https://belovedobiora.netlify.app",
-    github: "https://github.com/belgotech",
+    github: "https://github.com/Belgotech/my-react-portfolio",
   },
 
   {
