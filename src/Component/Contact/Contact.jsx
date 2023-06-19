@@ -38,7 +38,7 @@ const Contact = () => {
                 <article className="socials">
                     <FaFacebookMessenger className='socials__icon'/>
                     <h3>Messenger</h3>
-                    <h5>Be Loved</h5>
+                    <h5>Beloved Obiora</h5>
                     <a href="https://m.me/slendid.king" target="_blank">Send A Message</a>
                 </article>
                 <article className="socials">
