@@ -21,7 +21,7 @@ const Footer = () => {
             </ul>
             <a href="https://www.linkedin.com/mwlite/in/beloved-obiora-665097236" target="_blank"> <AiFillLinkedin /></a>
             <a href="https://github.com/Belgotech" target="_blank"><FaGithubSquare /></a>
-            <a href="https://twitter.com/Beloved99109954" target="_blank"><IoLogoTwitter /></a>
+            <a href="https://twitter.com/Belovedobiora1" target="_blank"><IoLogoTwitter /></a>
             <a href="https://m.me/slendid.king" target="_blank"><BsFacebook /></a>
             <p>BELOVEDOBIORA.All right reserved</p>
         </footer>
