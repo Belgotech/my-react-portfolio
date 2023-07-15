@@ -1,5 +1,5 @@
 import "./Portfolio.css";
-import IMG1 from "../../assets/portfolio6.png";
+import IMG1 from "../../assets/portfolio.png";
 import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
@@ -26,9 +26,9 @@ const data = [
   {
     id: 3,
     Image: IMG1,
-    title: "Belgotech",
-    demo: "https://belgotech.netlify.app",
-    github: "https://github.com/belgotech",
+    title: "BelgoStore",
+    demo: "https://belgostore.netlify.app",
+    github: "https://github.com/belgotech/ecomerce",
   },
 
   
