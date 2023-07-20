@@ -45,10 +45,10 @@ const data = [
   {
     id: 5,
     Image: IMG5,
-    title: "Beloved Portfolio",
+    title: "Jobby",
     description: "This is my portfolio where i showcase my works and projects, built with reactjs and css",
-    demo: "https://belovedobiora.netlify.app",
-    github: "https://github.com/Belgotech/my-react-portfolio",
+    demo: "https://jobby.netlify.app",
+    github: "https://github.com/Belgotech/jobby",
   },
 
   {
