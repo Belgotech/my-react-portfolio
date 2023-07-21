@@ -3,7 +3,7 @@ import IMG1 from "../../assets/portfolio.png";
 import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/portfolio3.png";
 import IMG4 from "../../assets/portfolio4.png";
-import IMG5 from "../../assets/portfolio1.png";
+import IMG5 from "../../assets/jobby.png";
 import IMG6 from "../../assets/portfolio6.png";
 
 const data = [
