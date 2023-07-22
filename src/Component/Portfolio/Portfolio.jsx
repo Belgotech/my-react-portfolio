@@ -13,6 +13,7 @@ const data = [
     title: "Chopings Recipe",
     demo: "https://chopingsrecipe.netlify.app",
     github: "https://github.com/Belgotech/Chopings-Resturant-",
+    // learn: "/PortfolioDetails1",
   },
 
   {
@@ -22,6 +23,7 @@ const data = [
     description: "This is a todo app used to keep record of todos, built with reatjs and css",
     demo: "https://belgotodo.netlify.app",
     github: "https://github.com/Belgotech/Basic-Crude-Application",
+    // learn: "/PortfolioDetails1",
   },
   {
     id: 3,
@@ -29,6 +31,7 @@ const data = [
     title: "BelgoStore",
     demo: "https://belgostore.netlify.app",
     github: "https://github.com/belgotech/ecomerce",
+    // learn: "/PortfolioDetails1",
   },
 
   
@@ -40,6 +43,7 @@ const data = [
     description: "This is a pig game, built with javascript and css",
     demo: "https://belgogame.netlify.app",
     github: "https://github.com/Belgotech/pig-game",
+    // learn: "/PortfolioDetails1",
   },
 
   {
@@ -49,6 +53,7 @@ const data = [
     description: "This is my portfolio where i showcase my works and projects, built with reactjs and css",
     demo: "https://jobby.netlify.app",
     github: "https://github.com/Belgotech/jobby",
+    // learn: "/PortfolioDetails1",
   },
 
   {
@@ -58,10 +63,24 @@ const data = [
     description: "",
     demo: "https://belgotech.netlify.app",
     github: "https://github.com/belgotech",
+    // learn: "/PortfolioDetails1",
   },
 ];
 
-//react animation libray
+
+// const router = createBrowserRouter(
+//   createRoutesFromElements(
+//     <Route path="/" element={<RootLayout />} >
+      
+//       <Route index element={<Home />} />
+//       <Route path="about" element={<About />} />
+
+
+//       <Route path="*" element={<PageNotFound />} />
+//     </Route>
+//   )
+// )
+
 
 const Portfolio = () => {
   return (
@@ -84,6 +103,8 @@ const Portfolio = () => {
               <a href={demo} className="btn btn-primary" target="_blank">
                 live Demo
               </a>
+              {/* <a href={learn}>learn more</a> */}
+              <a href="">About</a>
             </article>
           );
         })}
