@@ -1,12 +1,21 @@
 import "./Portfolio.css";
-import IMG1 from "../../assets/portfolio.png";
+import IMG1 from "../../assets/por.png";
 import IMG2 from "../../assets/portfolio2.png";
-import IMG3 from "../../assets/portfolio3.png";
-import IMG4 from "../../assets/portfolio4.png";
-import IMG5 from "../../assets/jobby.png";
-import IMG6 from "../../assets/portfolio6.png";
+import IMG3 from "../../assets/jobby.png";
+import IMG4 from "../../assets/portfolio3.png";
+import IMG5 from "../../assets/portfolio.png";
+import IMG6 from "../../assets/portfolio4.png";
+import IMG7 from "../../assets/portfolio6.png";
 
 const data = [
+  {
+    id: 7,
+    Image: IMG1,
+    title: "Krypt",
+    demo: "https://kryptb.netlify.app",
+    github: "https://github.com/Belgotech/web_3",
+    // learn: "/PortfolioDetails1",
+  },
   {
     id: 1,
     Image: IMG2,
@@ -17,8 +26,17 @@ const data = [
   },
 
   {
-    id: 2,
+    id: 5,
     Image: IMG3,
+    title: "Jobby",
+    description: "This is my portfolio where i showcase my works and projects, built with reactjs and css",
+    demo: "https://jobbyb.netlify.app",
+    github: "https://github.com/Belgotech/jobby",
+    // learn: "/PortfolioDetails1",
+  },
+  {
+    id: 2,
+    Image: IMG4,
     title: "Belgo-Todo",
     description: "This is a todo app used to keep record of todos, built with reatjs and css",
     demo: "https://belgotodo.netlify.app",
@@ -27,7 +45,7 @@ const data = [
   },
   {
     id: 3,
-    Image: IMG1,
+    Image: IMG5,
     title: "BelgoStore",
     demo: "https://belgostore.netlify.app",
     github: "https://github.com/belgotech/ecomerce",
@@ -38,7 +56,7 @@ const data = [
 
   {
     id: 4,
-    Image: IMG4,
+    Image: IMG6,
     title: "Pig Game",
     description: "This is a pig game, built with javascript and css",
     demo: "https://belgogame.netlify.app",
@@ -46,19 +64,10 @@ const data = [
     // learn: "/PortfolioDetails1",
   },
 
-  {
-    id: 5,
-    Image: IMG5,
-    title: "Jobby",
-    description: "This is my portfolio where i showcase my works and projects, built with reactjs and css",
-    demo: "https://jobby.netlify.app",
-    github: "https://github.com/Belgotech/jobby",
-    // learn: "/PortfolioDetails1",
-  },
 
   {
     id: 6,
-    Image: IMG6,
+    Image: IMG7,
     title: "Belgotech",
     description: "",
     demo: "https://belgotech.netlify.app",
