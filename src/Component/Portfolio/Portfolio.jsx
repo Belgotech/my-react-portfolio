@@ -93,7 +93,7 @@ const Portfolio = () => {
                 <img src={Image} alt={title} />
               </div>
               <h3>{title}</h3>
-              {/* <p>{description}</p> */}
+              <p>{description}</p>
               <a href={github} className="btn" target="_blank">
                 Github
               </a>
