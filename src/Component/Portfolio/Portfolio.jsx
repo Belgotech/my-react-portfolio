@@ -77,18 +77,6 @@ const data = [
 ];
 
 
-// const router = createBrowserRouter(
-//   createRoutesFromElements(
-//     <Route path="/" element={<RootLayout />} >
-      
-//       <Route index element={<Home />} />
-//       <Route path="about" element={<About />} />
-
-
-//       <Route path="*" element={<PageNotFound />} />
-//     </Route>
-//   )
-// )
 
 
 const Portfolio = () => {
@@ -113,7 +101,7 @@ const Portfolio = () => {
                 live Demo
               </a>
               {/* <a href={learn}>learn more</a> */}
-              <a href="">About</a>
+              {/* <a href="">About</a> */}
             </article>
           );
         })}
