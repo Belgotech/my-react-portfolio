@@ -11,9 +11,9 @@ const data = [
   {
     id: 7,
     Image: IMG1,
-    title: "Krypt",
-    description: "Krypt allows you send real-life Etherum(ropsten test) to anyone across the world, smart contract written in solidity, deployment script Javascript and UI React-JS and tailwind ",
-    demo: "https://kryptb.netlify.app",
+    title: "Crippy",
+    description: "Crippy allows you send real-life Etherum(ropsten test) to anyone across the world, smart contract written in solidity, deployment script Javascript and UI React-JS and tailwind ",
+    demo: "https://Crippy.netlify.app",
     github: "https://github.com/Belgotech/web_3",
     // learn: "/PortfolioDetails1",
   },
