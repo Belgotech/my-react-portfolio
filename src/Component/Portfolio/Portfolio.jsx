@@ -1,5 +1,5 @@
 import "./Portfolio.css";
-import IMG1 from "../../assets/por.png";
+import IMG1 from "../../assets/crippy.png";
 import IMG2 from "../../assets/portfolio2.png";
 import IMG3 from "../../assets/jobby.png";
 import IMG4 from "../../assets/portfolio3.png";
