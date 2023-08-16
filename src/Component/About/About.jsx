@@ -39,7 +39,7 @@ const About = () => {
             I'm a Full-Stack web developer and a Graphics Designer. 
             And am also a tech enthuastics who loves and belives in simplified,
             exceptional and creative solutions. With the vision of profering
-            simplified solution of real time problems that humanity is facing,
+            simplified solution to real time problems that humanity is facing,
             thereby making life on plannet Earth easy for mankind.
           </p>
 
